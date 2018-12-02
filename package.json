@@ -5,9 +5,10 @@
   "homepage": "http://stonepunch.github.io/RoboFriends",
   "dependencies": {
     "gh-pages": "^1.2.0",
+    "merge": "^1.2.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.5",
+    "react-scripts": "^2.1.1",
     "tachyons": "^4.11.1"
   },
   "scripts": {
